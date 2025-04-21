@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data from Excel file
-file_path = "C:\\Users\\Ronyt\\OneDrive - Shalom Hartman Institute\\Desktop\\Example.xlsx"  # Replace with your actual file path
+file_path = "C:\\Users\\Desktop\\Example.xlsx"  # Replace with your actual file path
 df = pd.read_excel(file_path)
 
 # Assuming the Excel file has columns 'X' and 'Y'
